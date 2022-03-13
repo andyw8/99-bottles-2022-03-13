@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "rebornix.ruby"
+    "shopify.rubocop-lsp",
+    "koichisasada.vscode-rdbg"
+  ],
+  "unwantedRecommendations": [
+    "GitHub.copilot"
+  ]
+}
